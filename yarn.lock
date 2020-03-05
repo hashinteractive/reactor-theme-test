@@ -947,10 +947,10 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@hashinteractive/gatsby-theme-reactor@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@hashinteractive/gatsby-theme-reactor/-/gatsby-theme-reactor-1.0.1.tgz#9fa77f1772b35325b569a3b872bbb65594dc5293"
-  integrity sha512-gfT7xOlqscodwL5LT/OQLyfcWtdFcMYrTDJ2YBOoyNxObumBeNz1SF283czqc1FjJ98Xdumu7BZjD6t8aTekGQ==
+"@hashinteractive/gatsby-theme-reactor@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@hashinteractive/gatsby-theme-reactor/-/gatsby-theme-reactor-1.0.2.tgz#add26071327802c4e16664b42c149b80f0e9db11"
+  integrity sha512-hnbWq0lEmxo6f/r65pdTrMZ2fzN1uWz7Du/GgAWRYVebXgJQWKRxxjlH3MUIBvxpqED8iF++HAb4vFfnNqNoAA==
   dependencies:
     "@theme-ui/presets" "^0.3.0"
     gatsby-plugin-anchor-links "^1.1.0"
