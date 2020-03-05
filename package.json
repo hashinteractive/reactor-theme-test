@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "develop": "gatsby develop"
+    "develop": "gatsby develop",
+    "build": "gatsby build"
   },
   "dependencies": {
     "@hashinteractive/gatsby-theme-reactor": "^1.0.0",
